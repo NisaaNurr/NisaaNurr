@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:3d1a78,100:0d0221&height=220&section=header&text=Nisa%20Nur%20%C3%87elik&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=40&desc=Game%20Developer%20%E2%9A%94%EF%B8%8F%20%7C%20%F0%9F%A4%96%20AI%20Engineer&descAlignY=60&descAlign=50&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Nisa%20Nur%20%C3%87elik&fontSize=58&fontColor=00ffff&color=0:060010,40:100035,100:060010&stroke=ff00a0&strokeWidth=2&animation=twinkling&desc=Game%20Developer%20%E2%9A%94%EF%B8%8F%20%7C%20%F0%9F%A4%96%20AI%20Engineer&descAlignY=76&descSize=23&descColor=ff00a0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Oyun+D%C3%BCnyalar%C4%B1+%C4%B0n%C5%9Fa+Ediyorum+%F0%9F%8E%AE;Yapay+Zeka+%C3%9Czerine+D%C3%BC%C5%9F%C3%BCn%C3%BCyorum+%F0%9F%A7%A0;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+ile+Ger%C3%A7ekli%C4%9Fi+Alg%C4%B1l%C4%B1yorum+%F0%9F%91%81%EF%B8%8F;Her+Sat%C4%B1r+Kod%2C+Yeni+Bir+D%C3%BCnya+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=680&lines=Oyun+D%C3%BCnyalar%C4%B1+%C4%B0n%C5%9Fa+Ediyorum+%F0%9F%8E%AE;Yapay+Zeka+%C3%9Czerine+D%C3%BC%C5%9F%C3%BCn%C3%BCyorum+%F0%9F%A7%A0;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+ile+Ger%C3%A7ekli%C4%9Fi+Alg%C4%B1l%C4%B1yorum+%F0%9F%91%81%EF%B8%8F;Her+Sat%C4%B1r+Kod%2C+Yeni+Bir+D%C3%BCnya+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,24 +10,38 @@
 
 <div align="center">
 
-```python
-class NisaNurCelik:
-    def __init__(self):
-        self.name        = "Nisa Nur Çelik"
-        self.alias       = "NisaaNurr"
-        self.role        = ["Game Developer 🎮", "AI Engineer 🤖"]
-        self.university  = "İnönü Üniversitesi · Bilgisayar Mühendisliği"
-        self.passion     = ["Game Development", "Computer Vision",
-                            "Deep Learning", "Generative AI"]
-        self.currently   = "Unity + PyTorch ile AI-powered oyun geliştirme"
-        self.goal        = "Oyun motorlarına yapay zeka entegre etmek"
-        self.fun_fact    = "Boss savaşlarından önce model eğitiyorum 💜"
-
-    def say_hi(self):
-        return "Merhaba! Kod, oyun ve yapay zekanın kesişim noktasındayım."
-
-me = NisaNurCelik()
-print(me.say_hi())
+```
+╔═══════════════════════════════════════════════════════════════╗
+║            ⚔   C H A R A C T E R   S H E E T   ⚔            ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║   NAME    ›  Nisa Nur Çelik    [ NisaaNurr ]                 ║
+║   CLASS   ›  Game Developer  ×  AI Engineer                   ║
+║   GUILD   ›  İnönü Üniversitesi · Bilgisayar Müh.            ║
+║   ORIGIN  ›  Türkiye  🇹🇷                                      ║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                        ⚡  STATS  ⚡                           ║
+║                                                               ║
+║   Game Development   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   90 / 100       ║
+║   AI & ML            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   82 / 100       ║
+║   Computer Vision    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   75 / 100       ║
+║   Programming        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   99 / 100       ║
+║   Deep Learning      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   65 / 100       ║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                    ✦  SPECIAL  SKILLS  ✦                      ║
+║                                                               ║
+║    › Unity 3D World Crafting      › Neural Net Sorcery       ║
+║    › OpenCV Spell Casting         › AI-Powered NPC Design    ║
+║    › Reinforcement Learning       › Computer Vision Magic    ║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║   QUEST  ›  Oyun motorlarına yapay zeka entegre etmek        ║
+║   MOTTO  ›  "Boss savaşından önce model eğit  💜"            ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -72,13 +86,13 @@ print(me.say_hi())
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NisaaNurr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisaaNurr&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0221"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NisaaNurr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=060010"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisaaNurr&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=060010"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NisaaNurr&theme=midnight-purple&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=a855f7" />
+  <img src="https://streak-stats.demolab.com/?user=NisaaNurr&theme=radical&hide_border=true&background=060010&ring=ff00a0&fire=00ffff&currStreakLabel=00ffff" />
 </div>
 
 ---
@@ -86,7 +100,7 @@ print(me.say_hi())
 ## 📈 Aktivite Grafiği
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NisaaNurr&theme=react-dark&bg_color=0d0221&color=a855f7&line=7c3aed&point=c084fc&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NisaaNurr&theme=react-dark&bg_color=060010&color=00ffff&line=ff00a0&point=ffffff&hide_border=true" />
 </div>
 
 ---
@@ -131,8 +145,8 @@ print(me.say_hi())
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NisaaNurr&color=7c3aed&style=for-the-badge&label=Profil+Görüntüleme)
+![Profile Views](https://komarev.com/ghpvc/?username=NisaaNurr&color=ff00a0&style=for-the-badge&label=Profil+Görüntüleme)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:3d1a78,70:1a0533,100:0d0221&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:060010,40:100035,100:060010&stroke=00ffff&strokeWidth=2&animation=twinkling" />
 
 </div>
