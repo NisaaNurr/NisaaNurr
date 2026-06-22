@@ -10,54 +10,7 @@
 
 <div align="center">
 
-<!-- ── Info Badges ── -->
-![](https://img.shields.io/badge/Nisa_Nur_%C3%87elik_|_NisaaNurr-c084fc?style=for-the-badge&logo=github&logoColor=white&labelColor=3d1a78)
-&nbsp;
-![](https://img.shields.io/badge/Game_Developer_%C3%97_AI_Engineer-7c3aed?style=for-the-badge&labelColor=4a0068)
-&nbsp;
-![](https://img.shields.io/badge/%C4%B0n%C3%B6n%C3%BC_%C3%9Cniversitesi_%C2%B7_Bili%C5%9Fim_M%C3%BCh.-0e7490?style=for-the-badge&labelColor=0a2a36)
-&nbsp;
-![](https://img.shields.io/badge/T%C3%BCrkiye_🇹🇷-ff00a0?style=for-the-badge&labelColor=5a0030)
-
-<br/><br/>
-
-<!-- ── Info Cards ── -->
-<table>
-  <tr>
-    <td align="center">🎯<br/><sub><b>CURRENT QUEST</b></sub><br/>AI-driven oyun motorları</td>
-    <td align="center">💜<br/><sub><b>MOTTO</b></sub><br/><i>"Boss'tan önce model eğit"</i></td>
-    <td align="center">🔭<br/><sub><b>FOCUS</b></sub><br/>Unity + PyTorch</td>
-    <td align="center">📖<br/><sub><b>LEARNING</b></sub><br/>Reinforcement Learning</td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ── Skill Tree ── -->
-
-**⚡ &nbsp; S K I L L &nbsp; T R E E &nbsp; ⚡**
-
-<br/>
-
-![](https://img.shields.io/badge/🎮_Game_Development-90%25-c084fc?style=for-the-badge&labelColor=3d1a78)
-&nbsp;
-![](https://img.shields.io/badge/🤖_AI_%26_ML-82%25-f472b6?style=for-the-badge&labelColor=4a0535)
-
-![](https://img.shields.io/badge/👁️_Computer_Vision-75%25-22d3ee?style=for-the-badge&labelColor=0e3a4a)
-&nbsp;
-![](https://img.shields.io/badge/💻_Programming-99%25-c084fc?style=for-the-badge&labelColor=3d1a78)
-
-![](https://img.shields.io/badge/🔮_Deep_Learning-65%25-a855f7?style=for-the-badge&labelColor=2e1065)
-
-<br/>
-
-<!-- ── Tech Icons ── -->
-
-**🛠️ &nbsp; T E C H &nbsp; S T A C K**
-
-<br/>
-
-[![](https://skillicons.dev/icons?i=unity,cs,python,pytorch,opencv,tensorflow,git,blender&theme=dark)](https://skillicons.dev)
+<img src="./profile-card.svg" width="100%" alt="Nisa Nur Çelik - Profile Card"/>
 
 </div>
 
