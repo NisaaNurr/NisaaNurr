@@ -4,20 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=680&lines=Oyun+D%C3%BCnyalar%C4%B1+%C4%B0n%C5%9Fa+Ediyorum+%F0%9F%8E%AE;Yapay+Zeka+%C3%9Czerine+D%C3%BC%C5%9F%C3%BCn%C3%BCyorum+%F0%9F%A7%A0;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+ile+Ger%C3%A7ekli%C4%9Fi+Alg%C4%B1l%C4%B1yorum+%F0%9F%91%81%EF%B8%8F;Her+Sat%C4%B1r+Kod%2C+Yeni+Bir+D%C3%BCnya+%E2%9C%A8)](https://git.io/typing-svg)
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:3d1a78,100:0d0221&height=220&section=header&text=Nisa%20Nur%20%C3%87elik&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=40&desc=Game%20Developer%20%E2%9A%94%EF%B8%8F%20%7C%20%F0%9F%A4%96%20AI%20Engineer&descAlignY=60&descAlign=50&descColor=a78bfa" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=680&lines=Oyun+D%C3%BCnyalar%C4%B1+%C4%B0n%C5%9Fa+Ediyorum+%F0%9F%8E%AE;Yapay+Zeka+%C3%9Czerine+D%C3%BC%C5%9F%C3%BCn%C3%BCyorum+%F0%9F%A7%A0;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+ile+Ger%C3%A7ekli%C4%9Fi+Alg%C4%B1l%C4%B1yorum+%F0%9F%91%81%EF%B8%8F;Her+Sat%C4%B1r+Kod%2C+Yeni+Bir+D%C3%BCnya+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:3d1a78,100:0d0221&height=220&section=header&text=Nisa%20Nur%20%C3%87elik&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=40&desc=Game%20Developer%20%E2%9A%94%EF%B8%8F%20%7C%20%F0%9F%A4%96%20AI%20Engineer&descAlignY=60&descAlign=50&descColor=a78bfa" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FFFF&background=00000000&center=true&vCenter=true&width=680&lines=Oyun+D%C3%BCnyalar%C4%B1+%C4%B0n%C5%9Fa+Ediyorum+%F0%9F%8E%AE;Yapay+Zeka+%C3%9Czerine+D%C3%BC%C5%9F%C3%BCn%C3%BCyorum+%F0%9F%A7%A0;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+ile+Ger%C3%A7ekli%C4%9Fi+Alg%C4%B1l%C4%B1yorum+%F0%9F%91%81%EF%B8%8F;Her+Sat%C4%B1r+Kod%2C+Yeni+Bir+D%C3%BCnya+%E2%9C%A8)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -179,5 +165,3 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:060010,40:100035,100:060010&stroke=00ffff&strokeWidth=2&animation=twinkling" />
 
 </div>
-
-
